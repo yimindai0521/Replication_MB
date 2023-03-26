@@ -1,6 +1,6 @@
 # Replication_MB
 
-This is the code accompanying with the paper Dai and Yan (2023+).
+This is the code accompanying with the paper Dai and Yan (2023+). The package implements Mahalanobis balancing is https://github.com/yimindai0521/ACBalancing.
 
 # file description:
 **`covbal.R` include the source code of the weighting method.  
