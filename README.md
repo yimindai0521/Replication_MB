@@ -1,7 +1,5 @@
 # Replication_MB
 
-# mfdacov-code: 
-
 This is the code accompanying with the paper Dai and Yan (2023+).
 
 # file description:
